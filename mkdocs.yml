@@ -93,10 +93,10 @@ nav:
 
   - Getting Started:
       - Index: nuclei/get-started.md
-      - Features: nuclei/get-started/#nuclei-features
-      - Uses: nuclei/get-started/#using-nuclei
-      - Contribution: nuclei/get-started/#code-contribution
-      - License: nuclei/get-started/#license
+      - Features: nuclei/get-started.html#nuclei-features
+      - Uses: nuclei/get-started.html#nuclei-usage
+      - Contribution: nuclei/get-started.html#code-contribution
+      - License: nuclei/get-started.html#license
 
   - Templating Guide:
       - Introduction: templating-guide/index.md
